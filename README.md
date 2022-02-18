@@ -24,7 +24,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 
 
-Abra o arquivo de código JavaScript ou Pyton no VScode, use o atalho Control+ Alt+ N(ou ⌃ Control+ ⌥ Option+ Nno macOS)
+Abra o arquivo de código JavaScript ou Python no VScode, use o atalho Control+ Alt+ N(ou ⌃ Control+ ⌥ Option+ Nno macOS)
 ou pressione F1e selecione / digite Run Code, o código será executado e a saída será exibida na janela Saída.
 
 
