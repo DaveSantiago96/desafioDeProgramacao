@@ -2,8 +2,8 @@
 
 ## Tecnologias Usadas
 
-JavaScript - Como principal Linguagem
-HTML e CSS - Para melhor visualizaçao da Questao 2
+JavaScript 
+Python
 
 
 
