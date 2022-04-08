@@ -1,4 +1,4 @@
-# Desafio de programação Academia Capgemini 
+# Desafio de programação
 
 ## Tecnologias Usadas
 
